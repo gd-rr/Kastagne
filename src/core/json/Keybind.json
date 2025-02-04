@@ -1,0 +1,42 @@
+{
+    "other": {
+        "Touch_F1": "show_collidebox",
+        "Touch_F2": "show_hitbox",
+        "Touch_F3": "show_heartbox",
+        "Touch_F4": "show_everything",
+        "Touch_down": "navdown",
+        "Touch_enter": "select",
+        "Touch_escape": "quit",
+        "Touch_up": "navup",
+        "Touch_return" : "return"
+    },
+    "player1": {
+        "Touch_A": "JumpBackward",
+        "Touch_D": "WalkForward",
+        "Touch_E": "JumpForward",
+        "Touch_F": "DashForward",
+        "Touch_Left_ctrl": "KickMode",
+        "Touch_1": "StandingFarLP",
+        "Touch_Q": "WalkBackward",
+        "Touch_2": "StandingFarMP",
+        "Touch_3": "StandingFarHP",
+        "Touch_shift": "DashBackward",
+        "Touch_Z": "JumpUpward",
+        "Touch_S": "Crouch"
+
+    },
+    "player2": {
+        "Touch_N": "DashBackward",
+        "Touch_J": "DashForward",
+        "Touch_P": "JumpBackward",
+        "Touch_I": "JumpForward",
+        "Touch_8": "StandingFarLP",
+        "Touch_9": "StandingFarMP",
+        "Touch_0": "StandingFarHP",
+        "Touch_Right_ctrl": "KickMode",
+        "Touch_L": "Crouch",
+        "Touch_K": "WalkForward",
+        "Touch_M": "WalkBackward",
+        "Touch_O": "JumpUpward"
+    }
+}

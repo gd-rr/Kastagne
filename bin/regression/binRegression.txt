@@ -1,0 +1,4 @@
+!! ne pas supprimer
+
+binRegression.txt sert a éviter la suprresion du dossier
+lors des push.
