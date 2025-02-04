@@ -72,3 +72,9 @@ Players can choose their fighters and engage in dynamic battles.
 - nlohmann (JSON file handling)
 - termios (text version of the game)
 - unistd (text version of the game)
+
+#### Credits
+Created by :
+- Gaspard Retter
+- Tanguy Vallot
+- Alexandre Delort
